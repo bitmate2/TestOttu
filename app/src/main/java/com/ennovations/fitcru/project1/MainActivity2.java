@@ -12,8 +12,8 @@ public class MainActivity2 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
 
-        Button btn = findViewById(R.id.btn);
-        Button btn1 = findViewById(R.id.btn);
+//        Button btn = findViewById(R.id.btn);
+//        Button btn1 = findViewById(R.id.btn);
 
         //branch1 changes
 
