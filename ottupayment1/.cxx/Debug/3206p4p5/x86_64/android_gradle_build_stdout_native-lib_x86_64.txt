@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Freelancing work\#Offsite Work\OttuPaymentSdk\Project\OttuPaymentSdk\ottupayment\.cxx\Debug\3206p4p5\x86_64'
+ninja: no work to do.

@@ -1,0 +1,3 @@
+D:/Android/Temp_files/GitLabPractice/Project1/ottupayment1/.cxx/Debug/4627422v/x86/CMakeFiles/native-lib.dir
+D:/Android/Temp_files/GitLabPractice/Project1/ottupayment1/.cxx/Debug/4627422v/x86/CMakeFiles/edit_cache.dir
+D:/Android/Temp_files/GitLabPractice/Project1/ottupayment1/.cxx/Debug/4627422v/x86/CMakeFiles/rebuild_cache.dir

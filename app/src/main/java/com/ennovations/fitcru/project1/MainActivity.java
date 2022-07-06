@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         // code in branch1
         tv.setText("branch1");
-        tv.setText("branch11");
+        tv.setText("branch13");
 
         tv.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -26,5 +26,9 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this,MainActivity2.class));
             }
         });
+
+
+
+
     }
 }

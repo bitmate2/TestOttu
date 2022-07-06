@@ -1,0 +1,3 @@
+D:/Freelancing work/#Offsite Work/OttuPaymentSdk/Project/OttuPaymentSdk/ottupayment/.cxx/Debug/3206p4p5/x86/CMakeFiles/native-lib.dir
+D:/Freelancing work/#Offsite Work/OttuPaymentSdk/Project/OttuPaymentSdk/ottupayment/.cxx/Debug/3206p4p5/x86/CMakeFiles/edit_cache.dir
+D:/Freelancing work/#Offsite Work/OttuPaymentSdk/Project/OttuPaymentSdk/ottupayment/.cxx/Debug/3206p4p5/x86/CMakeFiles/rebuild_cache.dir

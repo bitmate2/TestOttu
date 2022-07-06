@@ -1,0 +1,7 @@
+Executable : C:\Users\admin\AppData\Local\Android\Sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+D:\Freelancing work\#Offsite Work\OpenUpi\OttuPaymentSdk\ottupayment\.cxx\Debug\ve2a2m1i\x86_64
+native-lib
+jvmArgs : 
+
